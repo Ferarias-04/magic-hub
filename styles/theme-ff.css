@@ -3,7 +3,12 @@
 header { background: red; }
 h1 { letter-spacing: 0.5px; }
 article { border-left: 4px solid #cde3ff; padding-left: 1rem; }
-
+article > p {
+    color: #fc4242;
+}
+article ~ p {
+    color: rgb(255, 136, 128);
+}
 * {
     box-sizing: border-box;
 }
