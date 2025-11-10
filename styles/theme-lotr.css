@@ -8,3 +8,10 @@ article > p {
 article ~ p {
     color: blue;
 }
+section{
+    display: flex;
+    gap: 20px;
+}
+img{
+    width: 300px;
+}
