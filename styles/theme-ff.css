@@ -1,9 +1,9 @@
-<<<<<<< Updated upstream
+
 /* Tema específic Spider-Man */
 header { background: red; }
 h1 { letter-spacing: 0.5px; }
 article { border-left: 4px solid #cde3ff; padding-left: 1rem; }
-=======
+
 * {
     box-sizing: border-box;
 }
@@ -45,4 +45,3 @@ main {
     transform: translateY(-2px);
     box-shadow: 0 6px 18px rgba(0, 0, 0, .06);
 }
->>>>>>> Stashed changes
